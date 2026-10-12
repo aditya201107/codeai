@@ -7,7 +7,7 @@ TalkToCode acts as your AI-powered senior developer assistant, helping you navig
 
 ## 🔎 Glimpse:
 
-[![Watch the video](https://github.com/user-attachments/assets/370d0599-26ef-4f33-91d0-c74a07174d57)](https://github.com/user-attachments/assets/370d0599-26ef-4f33-91d0-c74a07174d57)
+[![Watch the video]
 
 </div>
 
@@ -19,20 +19,19 @@ TalkToCode acts as your AI-powered senior developer assistant, helping you navig
 - 🎨 **UI Building**: Create UI projects, run the generated code, and interact with the results visually.
 
 ## 🎥 Demo:  
-[Watch the demo](https://github.com/user-attachments/assets/4e98523a-a47d-46cf-81ac-8cbbcad2fb95)
+[Watch the demo]
 
 ## 💡 **Why TalkToCode?**
 Developers often spend ⏳ **60%** of their time understanding code. TalkToCode streamlines this process, saving time and increasing productivity by automating code documentation and providing easy navigation through complex codebases. 🚀
 
 ## 🔗 Project Links:
-- 🌐 [Website](https://genai-apac.el.r.appspot.com/)
-- 🎬 [Demo](https://www.loom.com/share/e0ddeda326e048eb8923df859a6a00ba?sid=b5ff1808-b8e1-45f7-ab61-008dd0853f1c)
-- 🏅 [Devfolio](https://devfolio.co/projects/talktocode-0a26)
-- 💻 [GitHub](https://github.com/ARYANK-08/codeai)
+- 🌐 [Website]
+- 🎬 [Demo]
+- 🏅 [Devfolio]
+- 💻 [GitHub]
 
 ## 👨‍💻 Developers:
-- Aryan Kyatham
-- Sharvin Gavad
+- Aditya pawar
 
 ## ⚙️ Technologies Used:
 - 🐍 Django
